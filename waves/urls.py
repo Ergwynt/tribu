@@ -1,4 +1,4 @@
-app_name = 'posts'
+app_name = 'waves'
 
 
 urlpatterns = []
